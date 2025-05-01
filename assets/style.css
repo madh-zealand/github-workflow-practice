@@ -75,6 +75,10 @@ h1 {
   margin-top: 1rem;
 }
 
+.profile-image{
+  width: 400px;
+}
+
 .task-input-field {
   padding: 0.5rem;
   font-size: 1rem;
